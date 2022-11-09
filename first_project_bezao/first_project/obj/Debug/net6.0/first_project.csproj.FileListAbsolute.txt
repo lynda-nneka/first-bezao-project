@@ -1,0 +1,15 @@
+/Users/user/Projects/first_project/first_project/bin/Debug/net6.0/first_project
+/Users/user/Projects/first_project/first_project/bin/Debug/net6.0/first_project.deps.json
+/Users/user/Projects/first_project/first_project/bin/Debug/net6.0/first_project.runtimeconfig.json
+/Users/user/Projects/first_project/first_project/bin/Debug/net6.0/first_project.dll
+/Users/user/Projects/first_project/first_project/bin/Debug/net6.0/first_project.pdb
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.csproj.AssemblyReference.cache
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.AssemblyInfoInputs.cache
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.AssemblyInfo.cs
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.csproj.CoreCompileInputs.cache
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.dll
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/refint/first_project.dll
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.pdb
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/first_project.genruntimeconfig.cache
+/Users/user/Projects/first_project/first_project/obj/Debug/net6.0/ref/first_project.dll
